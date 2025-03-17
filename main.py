@@ -1,2 +1,2 @@
-print ("generador de claves")
+print ("generador de clav")
 
